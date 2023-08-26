@@ -1,0 +1,42 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1e4f2cadfbceb12a6108b7a35b4f4a64dd72cfaf04b7fc640736fea25283fe9b"
+    }
+  ],
+  "containerPath" : "/Users/simranpanthi/Documents/CheckParameterAnalysis/CheckParameterAnalysis.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64",
+          "CODE_SIGN_IDENTITY" : "\"\"",
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "CODE_SIGNING_REQUIRED" : "NO",
+          "OTHER_SWIFT_FLAGS" : "-Xfrontend -gsil -Xllvm -sil-print-debuginfo -Xllvm -sil-print-before=SerializeSILPass",
+          "SWIFT_COMPILATION_MODE" : "wholemodule"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

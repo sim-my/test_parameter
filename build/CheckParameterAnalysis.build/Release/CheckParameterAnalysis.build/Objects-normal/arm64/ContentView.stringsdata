@@ -1,0 +1,28 @@
+{
+  "source": "/Users/simranpanthi/Documents/CheckParameterAnalysis/CheckParameterAnalysis/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Parameter 1"
+      },
+      {
+        "comment": "",
+        "key": "Parameter 2"
+      },
+      {
+        "comment": "",
+        "key": "Parameter 3"
+      },
+      {
+        "comment": "",
+        "key": "Parameter 4"
+      },
+      {
+        "comment": "",
+        "key": "Analyze Parameters"
+      }
+    ]
+  },
+  "version": 1
+}

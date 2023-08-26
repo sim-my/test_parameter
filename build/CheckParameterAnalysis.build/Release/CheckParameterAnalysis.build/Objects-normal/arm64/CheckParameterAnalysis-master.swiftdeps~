@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "a9c60ac7b16f9dc3c6a8d114d3535c537192483cfc0dc80cf0d261a8903b6186"
+build_start_time: [1692448634, 902151000]
+build_end_time: [1692448634, 925187000]
+inputs:
+  "/Users/simranpanthi/Documents/CheckParameterAnalysis/CheckParameterAnalysis/CheckParameterAnalysisApp.swift": !dirty [1692447969, 83220662]
+  "/Users/simranpanthi/Documents/CheckParameterAnalysis/CheckParameterAnalysis/ContentView.swift": !dirty [1692448259, 895355518]
